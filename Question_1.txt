@@ -1,0 +1,17 @@
+(a)
+
+==> As you can see the 3 countries India,China,Italy has more organizations that already have AI deploments than organizations that are still exploring AI.
+==> Therefore, Answers are:
+==> India
+==> China
+==> Italy
+
+(b)
+
+==> the first statement is true because the france deployed percentage is 31% and Global is 34%
+    therefore, france is lower than that in global ==> True
+==> the second statment is False because total percentage = 34+42 = 76 is 100% of global then, 25% of global is 19
+    therefore yet to explore Ai of Global is 42% which is higher than 19 and 42 is nearer to 55% of Global which is around half not quater
+    ==> False
+now finally,
+  TRUE And FALSE ==> FALSE
